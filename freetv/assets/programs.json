@@ -4,13 +4,13 @@
          "Noticias":[
             {
                "id":"news-doce",
-               "type":"m3u8",
-               "src":"http://tvstream.citywifi.uz:80/play/UfMelvvcKEzW6Yt_Bad7kRTtwTuTYB3AMJYWnqF6faY/m3u8",
+               "type":"hls",
+               "src":"http://tvstream.citywifi.uz:80/play/eYbz8rCpKKtW45SL8HaUqBeBII-A4K6_VYeaFRhkHQo/m3u8",
                "name":"Россия 1",
                "logo":"https://tele100.ru/wp-content/uploads/2017/04/ros1.png",
                "description":"Центральный канал",
                "category":"Noticias",
-               "available":true
+               "available":false
             },
             {
                "id":"news-trece",
