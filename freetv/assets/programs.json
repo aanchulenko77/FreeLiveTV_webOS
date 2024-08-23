@@ -10,7 +10,7 @@
                "logo":"https://tele100.ru/wp-content/uploads/2017/04/ros1.png",
                "description":"Центральный канал",
                "category":"Noticias",
-               "available":false
+               "available":true
             },
             {
                "id":"news-trece",
